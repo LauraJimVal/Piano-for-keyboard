@@ -1,7 +1,3 @@
-function enlaceInicio() {
-    location.href = "/work.html";
-}
-
 //////////// función para teclados
 
 function keyEvent(event) {
